@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ShohamBit
+- 👀 I’m interested in Technological deepening
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on programing projects
+- 📫 How to reach me Shohambit@gmai.com
