@@ -1,6 +1,12 @@
-18 years old, Magshimim Cyber Student, Student.
-Cyber, Programing(LL and HL), CPP, Python.
-Creative, quick learner, and team player.
-Very interested in programming and development.
-Dedicated to Advancing in Tech.
-How to reach me Shohambit@gmai.com
+# Shoham Yosef Bitton
+__Hi I`m shoham__
+
+## About me
+I am a **develope, programer, gamer**
+I enjoy:
+1. coding
+3. learning new things
+4. giving lessons 
+2. engaging with other
+2. more
+
