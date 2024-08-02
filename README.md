@@ -1,12 +1,26 @@
-# Shoham Yosef Bitton
-__Hi I`m shoham__
+# Hi there, I'm Shoham Yosef Bitton! 👋
 
 ## About me
-I am a **develope, programer, gamer**
-I enjoy:
-1. coding
-3. learning new things
-4. giving lessons 
-2. engaging with other
-2. more
+I'm a passionate developer with a love for coding and problem-solving. I specialize in Python, C, C++, and assembly language, and I'm currently learning Go (Golang).
 
+## 🛠️ Skills and Technologies
+- **Languages**: Python, C, C++, Assembly, Go (learning)
+- **Tools**: Git, Docker, VS Code, etc.
+- **Frameworks**: Flask, etc.
+
+## 🌟 Projects
+- [TOR network replica](https://github.com/your_username/project1): Python, SQLite, Docker
+-     Developed a TOR network replica, focusing on client-server architecture.
+-     Implemented encryption using public and private keys for secure communication.
+-     Containerized the application using Docker, enhancing deployment and scalability.
+
+## 📫 Contact Me
+- **Email**: [shohambit@gmail.com](mailto:shohambit@gmail.com)
+- **Instagram**: [shohambityo](https://www.instagram.com/shohambityo/)
+- **LinkedIn**: [shoham yosef bitton](https://www.linkedin.com/in/shohamyosefbitton/)
+- **LeetCode**: [shoham yosef bitton](https://www.linkedin.com/in/shohamyosefbitton/)
+
+## ⚡ Fun Facts
+- I love hiking and exploring nature.
+- I'm a coffee enthusiast.
+- I enjoy reading sci-fi novels.
