@@ -20,6 +20,7 @@ Containerized the application using Docker, enhancing deployment and scalability
 - **Instagram**: [shohambityo](https://www.instagram.com/shohambityo/)
 - **LinkedIn**: [shoham yosef bitton](https://www.linkedin.com/in/shohamyosefbitton/)
 - **LeetCode**: [shoham](https://leetcode.com/u/user6286UI/)
+- **CV**: [resuma](./Shoham Yosef Bitton-CV.docx)
 
 ## ⚡ Fun Facts
 - I love hiking and exploring nature.
