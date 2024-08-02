@@ -10,15 +10,16 @@ I'm a passionate developer with a love for coding and problem-solving. I special
 
 ## 🌟 Projects
 - [TOR network replica](https://github.com/your_username/project1): Python, SQLite, Docker
--     Developed a TOR network replica, focusing on client-server architecture.
--     Implemented encryption using public and private keys for secure communication.
--     Containerized the application using Docker, enhancing deployment and scalability.
-
+```
+Developed a TOR network replica, focusing on client-server architecture.
+Implemented encryption using public and private keys for secure communication.
+Containerized the application using Docker, enhancing deployment and scalability.
+```
 ## 📫 Contact Me
 - **Email**: [shohambit@gmail.com](mailto:shohambit@gmail.com)
 - **Instagram**: [shohambityo](https://www.instagram.com/shohambityo/)
 - **LinkedIn**: [shoham yosef bitton](https://www.linkedin.com/in/shohamyosefbitton/)
-- **LeetCode**: [shoham yosef bitton](https://www.linkedin.com/in/shohamyosefbitton/)
+- **LeetCode**: [shoham](https://leetcode.com/u/user6286UI/)
 
 ## ⚡ Fun Facts
 - I love hiking and exploring nature.
