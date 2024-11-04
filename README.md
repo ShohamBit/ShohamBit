@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shoham Yosef Bitton</h1>
-<h3 align="center">A passionate programer, gamer and a problom solver</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shohambit&label=Profile%20views&color=0e75b6&style=flat" alt="shohambit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shohambit" alt="shohambit" /></a> </p>
 
