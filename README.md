@@ -2,13 +2,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shohambit" alt="shohambit" /></a> </p>
 
-- 🔭 I’m currently working on [traceectl](https://github.com/ShohamBit/traceectl/)
+- 🔭 I’m currently working on [traceectl](https://github.com/ShohamBit/traceectl/) & [cv-next](https://github.com/magshimim-next/cv-next)
 
-- 🌱 I’m currently learning **go, protobuff, grpc**
-
-- 👯 I’m looking to collaborate on **programing projects**
-
-- 🤝 I’m looking for help with [tracee](https://github.com/aquasecurity/tracee)
+- 🌱 I’m currently learning **go, nextjs, type scrypt**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShohamBit](https://github.com/ShohamBit)
 
